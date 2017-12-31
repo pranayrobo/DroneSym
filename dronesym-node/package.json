@@ -11,12 +11,25 @@
     "type": "git",
     "url": "git+https://github.com/hasa93/DroneSym.git"
   },
-  "author": "",
+  "keywords": [
+    "DroneSym"
+   ],
+  "author": "SCoRe Community",
+ "contributors": [
+"hasa93",
+"rhperera",
+"pranayrobo",
+"charithccmc",
+"malithsen"
+],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hasa93/DroneSym/issues"
   },
   "homepage": "https://github.com/hasa93/DroneSym#readme",
+"engines": {
+    "node": ">=6.10.x"
+  },
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.17.1",
